@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 /// Uygulama Renk Paleti
 class AppColors {
+  AppColors._();
   // Ana Renkler
   static const Color primary = Color(0xFF2E7D32);       
   static const Color primaryLight = Color(0xFF60AD5E);  
